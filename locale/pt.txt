@@ -1,0 +1,62 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Hotel Santos Dumont
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_DC7841AF_D583_78B6_41E6_6C9F433E6F2D.label = Entrada do Elevador
+panorama_DC786B1B_D582_899E_41D4_B070E03947C1.label = Restaurante
+panorama_DC786DD6_D582_8896_41D3_C3D3EC8EA57F.label = Bar Restaurante
+panorama_DC7911C9_D585_78FA_41A6_161D55FD34C6.label = Banheiro Apto Casal
+panorama_DC79574F_D585_79F6_41AA_3C97D4772C1B.label = Apartamento Duplo Solteiro
+panorama_DC796342_D585_99EE_41E7_13051038066E.label = Banheiro Apto Duplo Solteiro
+panorama_DC79B544_D585_B9EA_4193_3EED2B7F8CB2.label = Banheiro Apto Triplo Solteiro
+panorama_DC79DB1A_D585_899E_41DA_04F40962F3DA.label = Salão Dermoiselle
+panorama_DC79DEE0_D585_88AA_41E7_5A3FF9F1EE3D.label = Apartamento Triplo Solteiro
+panorama_DC7A376D_D585_99BA_41D4_A7A5C1BF1D91.label = Estacionamento 2
+panorama_DC7A3E54_D585_8BEA_41E0_05D32F4FC4C5.label = Sala de espera Recepção
+panorama_DC7A5AEC_D585_88BB_41E2_C1E43FFDF2B7.label = Garagem
+panorama_DC7DD5F0_D583_98AA_41BF_315DFA001D7B.label = Recepção
+panorama_DC7F041F_D582_9F96_41B6_DDA0EE486D8A.label = Apartamento Casal
+panorama_DC7F125E_D582_9B97_41E4_8C0432564AD8.label = Apartamento Casal - PNE
+panorama_DC7F556F_D582_F9B6_41C9_91BE1CDA9AB2.label = Salão 14 Bis
+panorama_DC7F590F_D582_8976_41DC_268F3A780BE2.label = Banheiro Apto Casal PNE
+panorama_DC7FB798_D582_B89B_41E5_DBBD01F012C1.label = Sala de Reunião
+panorama_DC7FDFB6_D582_8896_41DF_917A989ADF72.label = Entrada do Restaurante
+panorama_DF7F79AF_D583_88B6_41E2_4EEBF61B281D.label = Entrada do Hotel
+photo_C7E71CB3_DFBA_F1F5_41E6_4DEBBB705074.label = sala de reuniao
+photo_F1FE9BAA_E42F_6210_41DC_24C4A4E6780A.label = Salão 14 Bis
+photo_F5BF309D_E41B_3E30_41E1_3C67D495FB3F.label = sala de reuniao
+photo_FC021C44_E43C_E611_41E7_D0B30DF7DC2F.label = Salão Dermoiselle
+photo_FCF3C077_E42B_1EF0_41D2_F75FC640B3B7.label = Quarto duplo solteiro
+photo_FD0ED792_E435_6231_41B2_478DD445EF85.label = Apartamento casal
+photo_FE7580F9_E42C_FFF3_418C_089622CC3C35.label = Quarto triplo solteiro
+
+## Popup
+
+### Body
+htmlText_C7AB1FD4_DFB6_4FB3_41DA_B37CAC7B5D9B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_C8933C81_DF8B_F195_41C1_35D4AAFA138A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F244FF8F_E435_2210_41D7_7E634CF4B201.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F2B394D4_E42C_E630_41E7_B77C3AC8E41F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_FC663D9C_E435_2631_41D2_6AFBC8C2BA8C.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_FCE57BB2_E42B_2270_41EB_D9C5662358EC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_FDE19FE4_E42D_6210_41E9_F2DF55E5BA18.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Action
+
+### URL
+LinkBehaviour_FE2D2F57_E475_223F_41EC_545378BF33F8.source = https://wa.me/5598991208341
+LinkBehaviour_FF04C9BD_E474_EE73_41D0_0A56447FA28B.source = https://wa.me/5598991208341
